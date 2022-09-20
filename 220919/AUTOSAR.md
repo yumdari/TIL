@@ -1,7 +1,7 @@
 **AUT**omotive **O**pen **S**ystem **AR**chitecture
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd0332c0-2fef-4429-b08c-59679220ca76/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/91246353/191268340-9ff123c1-36af-4212-bd6a-63bbb99e64b5.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c938b8f9-152c-41de-af78-8ead193e7b27/Untitled.png)
+![Untitled (1)](https://user-images.githubusercontent.com/91246353/191268354-99ab9cb7-fa63-4f87-979d-15580c75f28d.png)
 
 Application Software layer(ASW)와 Basic Software layer(BSW)를 분리해 개발
