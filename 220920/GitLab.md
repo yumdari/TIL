@@ -11,5 +11,7 @@ S/W 개발하며 발생하는 변화를 기록해서 S/W 변화를 열람하고 
 즉, GitLabp은 Git의 원격 저장소 기능과 이슈 트래커 기능 등을 제공하는 소프트웨어
 
 - GitHub와 차이
+- 
+![Untitled](https://user-images.githubusercontent.com/91246353/191270552-05567f1b-f244-4159-a1cb-bb1db208f765.png)
 
 GitLab의 경우 CI/CD의 많은 부분을 커버하는 것은 물론 컨테이너 레지스트리에서도 차이를 나타내고 있습니다.
