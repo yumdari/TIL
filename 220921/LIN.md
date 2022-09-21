@@ -8,11 +8,10 @@ Local Interconnect Network
     
 - 적용 대상
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd5c2f3e-1d93-4a2c-93b5-9fee87f6b253/Untitled.png)
-    
+    ![Untitled](https://user-images.githubusercontent.com/91246353/191452102-08a9bd51-314f-492e-bd84-8935711cb2b6.png)
+
 - 특징
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1d6f62c-6f53-4f61-bdeb-5d8728e9c6c5/Untitled.png)
-    
+    ![Untitled (1)](https://user-images.githubusercontent.com/91246353/191452114-45fb5097-7bdc-49b4-9bdb-bc4e08dc8200.png)
 
 *출처 : FESCARO
