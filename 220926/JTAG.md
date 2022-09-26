@@ -1,7 +1,8 @@
 Joint Test Action Group
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/24205050-b00a-433c-8aff-f6b2e5d46241/Untitled.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c58d7910-138c-45fc-8ad9-7223bc547d1a/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/91246353/192209647-7c82e850-b527-4227-9537-141acbcbd6f4.png)
+
+![Untitled (1)](https://user-images.githubusercontent.com/91246353/192209658-ea3ef4ff-3df0-46c3-b063-66893ffdbb5f.png)
 
 # 핀 설명
 TMS (Test Mode State Pin)
