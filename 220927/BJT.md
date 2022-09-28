@@ -1,5 +1,7 @@
 Bipolar Juntion Transistor
 
+![Bipolar-Junction-Transistor](https://user-images.githubusercontent.com/91246353/192667940-8c837549-cd49-43fa-a58a-ee1eedd5d0c7.jpg)
+
 양극성의 성격으로 BJT의 전류는 electron과 hole 둘다 기여.
 
 MOSFET이 Electron이나 hole 둘 중에 한 종류의 캐리어가 전류에 기여하는 unipolar인 것과는 대조적.
