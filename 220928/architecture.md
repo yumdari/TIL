@@ -2,7 +2,7 @@
     
     Complex Instruction Set Computer
     
-![Untitled](https://user-images.githubusercontent.com/91246353/192721007-97a57011-644d-4677-8b75-fd5d65d31b93.png)
+   ![Untitled](https://user-images.githubusercontent.com/91246353/192721007-97a57011-644d-4677-8b75-fd5d65d31b93.png)
 
     명령어가 S/W 적인 방식
     
