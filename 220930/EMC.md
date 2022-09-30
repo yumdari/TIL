@@ -2,7 +2,7 @@ EMC (Electromagnetic Compatibility / 전자 양립성)
 
 다른 기기에 대해 노이즈로 인한 영향을 미치지 않고, 다른 기기로부터 노이즈의 영향을 받아도 본래의 성능을 유지한다는 두 가지 성능을 의미
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/abe9efce-b843-42ed-8f22-e0282586eccc/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/91246353/193204302-2368d581-f762-4565-b264-c5ad655aa575.png)
 
 - EMI (전자 방해)
     
