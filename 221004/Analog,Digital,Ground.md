@@ -4,15 +4,15 @@ Analog 신호(AC + DC)
 
 AC는 주파수를 가지기만 하면 AC라고 부른다. 일반적으로 극성이 바뀌는 신호를 AC, 극성이 바뀌지 않고, steady한 상태의 신호를 DC라고 한다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b802a9c6-b75f-4a53-a921-3a4ab2808deb/Untitled.png)
+![Untitled (1)](https://user-images.githubusercontent.com/91246353/193786457-062e83ea-f149-49a7-935e-363b208847ed.png)
 
 - ideal signal
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a02afad8-a8a9-4202-8a33-ab105a9c7d34/Untitled.png)
+![Untitled (2)](https://user-images.githubusercontent.com/91246353/193786485-244b0677-7b7c-4b88-a529-c5ec947d112f.png)
 
 - 실제 signal
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b01b12ca-cc4f-4234-ae54-1e20def7bf34/Untitled.png)
+![Untitled (3)](https://user-images.githubusercontent.com/91246353/193786507-f77f7e73-b7c8-4c0b-8108-39bdafd1b757.png)
 
 - ground
 1. Earth
