@@ -1,14 +1,14 @@
 - AC
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c70a845e-7066-4762-966f-5ddc22ddabbc/Untitled.png)
-    
+    ![Untitled (1)](https://user-images.githubusercontent.com/91246353/193786720-6b5eaaf6-bed7-47d5-8300-c1459923f9e6.png)
+
 - DC
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/81e8392b-a01e-4a09-b752-25c7a72e57db/Untitled.png)
-    
+    ![Untitled (2)](https://user-images.githubusercontent.com/91246353/193786741-dbee28d1-0c67-482f-9ac8-ad999cb369ec.png)
+
 - Fourier Transform
 모든 신호는 무한 개의 주기함수(cos 또는 sin)의 합으로 나타낼 수 있다.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c592daf-3998-48f1-af01-30ed806fd0f6/Untitled.png)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a03fa43a-5621-4b52-85d1-7030eb095fa1/Untitled.png)
+    ![Untitled (3)](https://user-images.githubusercontent.com/91246353/193786765-8673244b-e752-4001-84ea-170820515ba2.png)
+
+    ![Untitled (4)](https://user-images.githubusercontent.com/91246353/193786784-2a95e4ea-4967-4dab-9fb2-60ea2f05da33.png)
