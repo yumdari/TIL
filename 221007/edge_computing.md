@@ -1,4 +1,4 @@
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b5b18254-af04-4d7b-9704-c0e8a2a396ae/Untitled.png)
+![Untitled (1)](https://user-images.githubusercontent.com/91246353/194509094-64ba96f2-3c86-443f-998c-287104dd9a3d.png)
 
 ## Edge
 
