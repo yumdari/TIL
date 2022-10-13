@@ -1,0 +1,3 @@
+Open Collector구조는 하나의 Master와 하나의 Slave에서도 사용 가능하지만, 여러개의 Master를 Slave에 한방에 붙여서, 전원 하나와, 저항 하나로 회로를 간단하게 만들 수 있는 장점이 있는거죠. 보통 Digital chip의 pin description을 보면 open collector인 pin은 open collector라고 쓰여 있어, 그것을 고려하여 회로를 구성할 수록 더욱 더 진가를 발휘합니다.
+
+이런 구조는 전문용어로 Wired OR 라고 부르기도 하고, 여러개의 Master 출력을 한번에 묶을 수 있으니까, 회로도 간단해 지고, 또한 서로 다른 Master의 출력을 Slave의 정격 규격 - 전류나 전압 -을 Pull up에 의하여 쉽게 맞출 수가 있어 편리하게 이용된다지요?
