@@ -10,4 +10,4 @@ body domain 많이 적용되어있음
 
 전장 분야에서 사용하는 NM(Network Management) 구현 방법은 몇 가지 방식으로 구분된다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dfd1cc93-946c-4b1f-8db9-4ce9ed1c5225/Untitled.png)
+![Untitled (2)](https://user-images.githubusercontent.com/91246353/195777657-cc906827-7bc8-44b0-b8ec-fd4bfd44e4d3.png)
