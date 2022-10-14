@@ -1,8 +1,9 @@
 CAN with Flexible Data rate
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a6db4e6-c8c5-448f-846f-87be9eabac69/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/91246353/195777551-bac46fa8-7772-481b-8cc2-26c3a7f036bb.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/da42a077-1a89-478b-ad0c-0a712c21adc0/Untitled.png)
+![Untitled (1)](https://user-images.githubusercontent.com/91246353/195777554-79b4fd4e-ec29-40d4-8f6d-f38ebaddec57.png)
+
 
 Bosch사가 개발한 CAN 통신 네트워크는 약 30년 동안 ECU를 연결하는 직렬 버스 네트워크 통신으로 자동차 산업에서 지배적인 통신 방법이었습니다. 하지만 차량 내 데이터 트래픽의 증가로 CAN 버스 네트워크에 높은 부하가 가해지면서 보다 나은 통신 방법이 필요했습니다. 한 네 트워크를 여러 개의 버스로 분할하는 방법이나 고성능의 FlexRay로 전환하는 방법은 많은 투자비용을 요구했습니다.
 
