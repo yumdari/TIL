@@ -20,11 +20,12 @@ MCU에서는 0과 1의 값만을 처리할 수 있으므로 0은 GND, 1은 VCC�
 
 약속(프로토콜, Protocol)이 정해져 있어야 한다.
 
-[https://t1.daumcdn.net/cfile/tistory/99BC37345A45F5262C](https://t1.daumcdn.net/cfile/tistory/99BC37345A45F5262C)
+![image](https://user-images.githubusercontent.com/91246353/197145029-8f136aab-1379-403d-b916-aa1ec6c8f77d.gif)
+
 
 UART에서는 보내는 쪽(TX)와 받는 쪽(RX)에서 데이터를 보내는 속도를 **보율(baud rate)**로 정하고 있다.
 
-[https://t1.daumcdn.net/cfile/tistory/99789E4A5A45F5D737](https://t1.daumcdn.net/cfile/tistory/99789E4A5A45F5D737)
+![image](https://user-images.githubusercontent.com/91246353/197145158-2fa4f92e-abce-4678-afe5-711843eb7d8e.png)
 
 보내는 쪽(TX)과 받는 쪽(RX)이 동일한 속도롤 데이터를 주고받는다고 하여 정확하게 통신이
 
@@ -42,13 +43,13 @@ UART는 바이트 단위 통신을 주로 사용하며, 시작 비트(start bit)
 
 **10비트 데이터를 전송**하는것이 일반적이다. (**패리티 비트를 사용하지 않을 경우에**)
 
-[https://t1.daumcdn.net/cfile/tistory/999CEC4B5A45F75434](https://t1.daumcdn.net/cfile/tistory/999CEC4B5A45F75434)
+![image (1)](https://user-images.githubusercontent.com/91246353/197145190-f26bf82d-d6ae-4620-a209-37d878056871.png)
 
 UART 통신은 **전이중 방식(full duplex)** 통신으로 송신과 수신을 동시에 진행할 수 있으며, 이를 위해서
 
 2개의 범용 입출력 핀이 필요하다.(시리얼포트 -> TX, RX)
 
-[https://t1.daumcdn.net/cfile/tistory/999C05435A461FA81F](https://t1.daumcdn.net/cfile/tistory/999C05435A461FA81F)
+![image (1)](https://user-images.githubusercontent.com/91246353/197145209-5983b6e7-fd57-48dc-9d48-e69025944e17.gif)
 
 예를 들어, 컴퓨터와 ATMEGA16를 연결하는 경우, 컴퓨터와의 연결에 있어서 RS232 연결을 사용하며,
 
@@ -58,8 +59,8 @@ RS232에서 사용하는 신호 레벨은 UART의 신호 레벨(TTL)과 달라 
 
 RS232 통신에 있어서 가장 대표적으로 쓰이는 IC는 **MAX232** 이다.
 
-[https://t1.daumcdn.net/cfile/tistory/997CF5445A4620C60E](https://t1.daumcdn.net/cfile/tistory/997CF5445A4620C60E)
+![image (2)](https://user-images.githubusercontent.com/91246353/197145293-523371fe-84f5-467b-9dfd-ee2400e27786.png)
 
 이외에 USB-시리얼 변환 장치를 통해서 컴퓨터와 MCU 보드 간의 통신이 가능하다.
 
-[https://t1.daumcdn.net/cfile/tistory/99242F465A46228C05](https://t1.daumcdn.net/cfile/tistory/99242F465A46228C05)
+![image (3)](https://user-images.githubusercontent.com/91246353/197145323-ddcb71c5-8718-4c23-87a9-210801cf853d.png)
